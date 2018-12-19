@@ -1,3 +1,6 @@
 # RNTabNav
-react-native, react-navigation (tab), native-base
 Implementation of Tab Bar Bottom Navigation
+
+### Packages :
+* react-navigation
+* native-base
